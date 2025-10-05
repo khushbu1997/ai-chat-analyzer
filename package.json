@@ -1,0 +1,118 @@
+{
+  "name": "@prathammahajan/ai-chat-analyzer",
+  "version": "1.0.0",
+  "description": "🤖 AI-powered chat analysis with sentiment analysis, intent detection, automated responses, and customer service optimization",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo 'No build step required for JavaScript'"
+  },
+  "keywords": [
+    "ai",
+    "chat-analysis",
+    "sentiment-analysis",
+    "intent-detection",
+    "automated-responses",
+    "customer-service",
+    "chatbot",
+    "nlp",
+    "natural-language-processing",
+    "openai",
+    "gpt",
+    "conversation-analysis",
+    "quality-scoring",
+    "response-generation",
+    "emotion-detection",
+    "tone-analysis",
+    "chat-optimization",
+    "real-time-analysis",
+    "multi-language",
+    "translation",
+    "conversation-insights",
+    "performance-analytics",
+    "recommendation-engine",
+    "chat-monitoring",
+    "response-optimization",
+    "conversation-optimization",
+    "ai-recommendations",
+    "chat-analytics",
+    "customer-insights",
+    "service-optimization",
+    "conversation-quality",
+    "response-suggestions",
+    "intent-classification",
+    "sentiment-scoring",
+    "chat-intelligence",
+    "conversation-ai",
+    "customer-experience",
+    "chat-automation"
+  ],
+  "author": {
+    "name": "Pratham Mahajan",
+    "email": "prathammahajan13@gmail.com",
+    "url": "https://github.com/prathammahajan13"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prathammahajan13/ai-chat-analyzer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/prathammahajan13/ai-chat-analyzer/issues"
+  },
+  "homepage": "https://github.com/prathammahajan13/ai-chat-analyzer#readme",
+  "engines": {
+    "node": ">=16.0.0",
+    "npm": ">=8.0.0"
+  },
+  "dependencies": {
+    "vader-sentiment": "^1.1.3",
+    "joi": "^17.11.0",
+    "lodash": "^4.17.21",
+    "winston": "^3.11.0"
+  },
+  "devDependencies": {},
+  "peerDependencies": {
+    "node": ">=16.0.0"
+  },
+  "funding": {
+    "type": "individual",
+    "url": "https://buymeacoffee.com/mahajanprae"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "config": {
+    "defaultSentimentModel": "vader",
+    "defaultIntentConfidence": 0.8,
+    "defaultQualityThreshold": 0.7,
+    "maxConcurrentAnalysis": 1000,
+    "defaultLanguage": "en",
+    "supportedLanguages": ["en", "es", "fr", "de", "it", "pt", "ru", "zh", "ja", "ko", "ar", "hi"]
+  },
+  "directories": {
+    "lib": "src"
+  },
+  "maintainers": [
+    {
+      "name": "Pratham Mahajan",
+      "email": "prathammahajan13@gmail.com"
+    }
+  ],
+  "files": [
+    "src/",
+    "README.md",
+    "LICENSE",
+    "CHANGELOG.md"
+  ],
+  "os": [
+    "win32",
+    "darwin",
+    "linux"
+  ],
+  "cpu": [
+    "x64",
+    "arm64"
+  ]
+}
