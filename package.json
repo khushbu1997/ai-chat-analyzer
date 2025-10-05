@@ -1,6 +1,6 @@
 {
   "name": "@prathammahajan/ai-chat-analyzer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "🤖 AI-powered chat analysis with sentiment analysis, intent detection, automated responses, and customer service optimization",
   "main": "src/index.js",
   "type": "commonjs",
@@ -50,7 +50,7 @@
   ],
   "author": {
     "name": "Pratham Mahajan",
-    "email": "prathammahajan13@gmail.com",
+    "email": "mahajanpratham88@gmail.com",
     "url": "https://github.com/prathammahajan13"
   },
   "license": "MIT",
@@ -97,7 +97,7 @@
   "maintainers": [
     {
       "name": "Pratham Mahajan",
-      "email": "prathammahajan13@gmail.com"
+      "email": "mahajanpratham88@gmail.com"
     }
   ],
   "files": [

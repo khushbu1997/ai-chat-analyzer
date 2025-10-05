@@ -18,6 +18,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.0.1] - 2025-01-27
+
+### Changed
+- Updated package version to 1.0.1 for npm republishing
+- Updated author email information
+
+---
+
 ## [1.0.0] - 2025-10-05
 
 ### Added
@@ -133,6 +141,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 | Version | Date | Key Changes |
 |---------|------|-------------|
+| 1.0.1 | 2025-01-27 | Version update for npm republishing |
 | 1.0.0 | 2025-10-05 | Initial stable release with full feature set |
 
 ## Migration Guide
